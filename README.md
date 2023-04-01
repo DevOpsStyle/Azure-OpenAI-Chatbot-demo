@@ -17,6 +17,12 @@ Configure the configuration.dat file like the example below:
 
 <img src="https://i.ibb.co/3y9FgQv/configuration.jpg" alt="Deployment" title="Deployment">
 
+<h3> How it works </h3>
+
+After the configuration you can run the chat.exe file. The response will be generated from OpenAI Services in Azure and can be different based on model you deployed.
+
+<img src="https://i.ibb.co/BcSj48Y/demo.jpg" alt="Deployment" title="Deployment">
+
 <h3> Download </h3>
 
 Download the zip inside the repository
